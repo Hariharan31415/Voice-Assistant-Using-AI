@@ -71,13 +71,13 @@ Arduino board
 
  Intel Core i5 or similar |
  Microcontrollers or IoT Devices |
- Communication Networks (Wi-Fi)
- Speaker
- Mic
- LED lights
- Motor
- Relay
-Battery
+ Communication Networks (Wi-Fi) |
+ Speaker |
+ Mic |
+ LED lights |
+ Motor |
+ Relay |
+Battery |
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
