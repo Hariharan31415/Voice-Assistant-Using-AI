@@ -21,3 +21,11 @@ advanced AI and IoT technologies, empowering individuals of all technical skill 
 daily routines and productivity. By bridging the gap between cutting-edge innovation and everyday
 practicality, our project aims to catalyze widespread adoption and appreciation of the transformative
 potential inherent in AI and IoT advancements.
+**OBJECTIVE OF THE PROJECT**
+Sophisticated Virtual Personal Assistant Development 
+Natural Language Processing 
+ Integration with Home Devices 
+Accessibility and Affordability 
+User-Friendly Interface 
+Minimize Hardware Requirements
+![blockdia](https://github.com/user-attachments/assets/d2e4bbbf-3d0a-4689-af7c-f71abd37928d)
