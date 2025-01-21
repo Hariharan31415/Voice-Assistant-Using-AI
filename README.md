@@ -1,4 +1,5 @@
 # Voice-Assistant-Using-AI
+
 In this project, we embark on the development of a sophisticated Virtual Personal Assistant (VPA)
 utilizing the combined capabilities of Artificial Intelligence (AI) and the Internet of Things (IoT). Our
 VPA boasts a remarkable ability to comprehend natural languages and diverse accents, enabling seamless
@@ -24,7 +25,7 @@ potential inherent in AI and IoT advancements.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **OBJECTIVE OF THE PROJECT**
 
-1.Sophisticated Virtual Personal Assistant Development 
+.Sophisticated Virtual Personal Assistant Development 
 2.Natural Language Processing 
 3.Integration with Home Devices 
 4.Accessibility and Affordability 
