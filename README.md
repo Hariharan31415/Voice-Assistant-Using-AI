@@ -25,7 +25,7 @@ potential inherent in AI and IoT advancements.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **OBJECTIVE OF THE PROJECT**
 
-.Sophisticated Virtual Personal Assistant Development 
+1.Sophisticated Virtual Personal Assistant Development 
 2.Natural Language Processing 
 3.Integration with Home Devices 
 4.Accessibility and Affordability 
@@ -38,7 +38,7 @@ potential inherent in AI and IoT advancements.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Module Description**
 
-1.Voice Recognition: Utilizes the speech_recognition library to interpret voice commands, enabling seamless communication.
+Voice Recognition: Utilizes the speech_recognition library to interpret voice commands, enabling seamless communication.
 Task Management: Organizes tasks with features like adding tasks, setting reminders, and managing to-do lists to boost productivity.
 Web Browsing: Uses the webbrowser library to access web pages based on user requests for quick online content retrieval.
 Music Playback: Plays local and online music, offering a personalized listening experience.
@@ -47,9 +47,9 @@ Utility Functions: Offers additional features like screenshots, system sleep, sh
 Natural Language Processing (NLP): Employs the transformers library for tasks like question-answering, ensuring precise and natural interactions.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ** Software Requirements:**
- Operating System : Windows, Linux, or macOS.
- Python: Python 3.x installed on the system.
- Python Modules
+ Operating System : Windows, Linux, or macOS.
+ Python: Python 3.x installed on the system.
+ Python Modules
 • Speech Recognition Library : Enables the conversion of speech to text
 • gTTS (Google Text-to-Speech) Module : Synthesizing text into speech for natural-language
 responses.
@@ -69,15 +69,15 @@ Arduino board
 
 **Hardware Requirements:** 
 
- Intel Core i5 or similar.
- Microcontrollers or IoT Devices
- Communication Networks (Wi-Fi)
- Speaker
- Mic
- LED lights
- Motor
- Relay
- Battery
+ Intel Core i5 or similar |
+ Microcontrollers or IoT Devices |
+ Communication Networks (Wi-Fi)
+ Speaker
+ Mic
+ LED lights
+ Motor
+ Relay
+Battery
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
