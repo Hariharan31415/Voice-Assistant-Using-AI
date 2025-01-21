@@ -24,12 +24,12 @@ potential inherent in AI and IoT advancements.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **OBJECTIVE OF THE PROJECT**
 
-Sophisticated Virtual Personal Assistant Development 
-Natural Language Processing 
-Integration with Home Devices 
-Accessibility and Affordability 
-User-Friendly Interface 
-Minimize Hardware Requirements
+1.Sophisticated Virtual Personal Assistant Development 
+2.Natural Language Processing 
+3.Integration with Home Devices 
+4.Accessibility and Affordability 
+5.User-Friendly Interface 
+6.Minimize Hardware Requirements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Block Diagram**
 
@@ -37,7 +37,7 @@ Minimize Hardware Requirements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Module Description**
 
-Voice Recognition: Utilizes the speech_recognition library to interpret voice commands, enabling seamless communication.
+1.Voice Recognition: Utilizes the speech_recognition library to interpret voice commands, enabling seamless communication.
 Task Management: Organizes tasks with features like adding tasks, setting reminders, and managing to-do lists to boost productivity.
 Web Browsing: Uses the webbrowser library to access web pages based on user requests for quick online content retrieval.
 Music Playback: Plays local and online music, offering a personalized listening experience.
